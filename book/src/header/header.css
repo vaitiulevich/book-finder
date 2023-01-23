@@ -1,0 +1,14 @@
+.app-header{
+ background-color: #282c34;
+ min-height: 70px;
+ display: flex;
+    align-items: center;
+}
+.app-header h1{
+    margin: 0px;
+}
+.logo-img {
+    height: 70px;
+    margin: 10px;
+  }
+  

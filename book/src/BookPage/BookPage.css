@@ -1,0 +1,22 @@
+.book-page{
+    display: flex;
+    align-items: center;
+}
+.img-book{
+    width: 40%;
+    height: 100%;
+    padding: 2%;
+}
+.content-book{
+    width: 50%;
+    padding: 5% 0px;
+}
+.p-book{
+    text-align: left;
+}
+.btn-back{
+    padding: 10px;
+    border: 0px;
+    border-radius: 7px;
+    background-color: #ffffffd1;
+}
